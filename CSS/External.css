@@ -1,0 +1,21 @@
+body {
+    background-color: #f7f7f7;
+}
+
+h1,
+h3 {
+    color: brown;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted navajowhite;
+    border-color: navajowhite;
+    width: 5%;
+    height: 10%;
+
+}
+td,th
+{
+color: #737373;
+}
